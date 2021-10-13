@@ -14,8 +14,11 @@ public class FxFor1 {
 
     /*
     for each 文
-     for (int num:array)：FxFor.javaと同じ動きになります。
-     for (int i = 0; i < array.length; i++)?・・・FxFor.javaの構文、array=numです。
+     for (int num:array)：ex-FxFor.javaと同じ動きになります。
+     for (int i = 0; i < array.length; i++)?・・・ex-FxFor.javaの構文と同じ、array=numです。
 
+    結果
+    150
+    30.0
      */
 

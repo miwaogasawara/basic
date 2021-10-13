@@ -20,6 +20,8 @@ public class MaxSample {
     }
 
 /*
+for文の中にif文を組み合わせた書き方
+
 int[]array = {20,30,10,50,40};　配列の宣言
         int max  = array[0]; 仮の最大値
         int min = array[0];仮の最小値
@@ -34,4 +36,8 @@ int[]array = {20,30,10,50,40};　配列の宣言
         }
         System.out.println("MAX" +max);最大値の出力
         System.out.println("MINI" +min);最小値の出力
+
+   　　　結果
+   　　　　MAX50
+　　　　　　MINI10
  */
