@@ -23,5 +23,8 @@ public class CountSample4 {
 
         //条件に一致したデータの数を表示
         System.out.println("0以上のデータの個数:" + count);
+
     }
 }
+/*
+ */

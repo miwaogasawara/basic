@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5a9b22-7e13-454a-8142-91012192d5aa" name="デフォルト変更リスト" comment="授業内容更新">
-      <change afterPath="$PROJECT_DIR$/src/intro2/AveSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/CountSample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/DoubleLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/LinearSearchSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/MaxSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/MinSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/SumSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/While3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex/CalcBmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/CalcBmi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex/FxFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/FxFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex/FxFor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/FxFor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex/MaxSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex/MaxSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intro2/For1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro2/For1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intro2/For2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro2/For2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intro2/CountSample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro2/CountSample4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="アプリケーション.CalcBmi">
+  <component name="RunManager" selected="アプリケーション.For3">
     <configuration name="CalcBmi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex.CalcBmi" />
       <module name="basic" />
@@ -72,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.DoubleLoop" />
+    <configuration name="CountSample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.CountSample4" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.For2" />
+    <configuration name="For3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.For3" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.For3" />
+        <item itemvalue="アプリケーション.CountSample4" />
         <item itemvalue="アプリケーション.CalcBmi" />
         <item itemvalue="アプリケーション.MaxSample" />
         <item itemvalue="アプリケーション.FxFor1" />
-        <item itemvalue="アプリケーション.For2" />
-        <item itemvalue="アプリケーション.DoubleLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633415078123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="授業内容更新">
+      <created>1634106229978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634106229978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
