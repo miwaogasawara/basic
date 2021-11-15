@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5a9b22-7e13-454a-8142-91012192d5aa" name="デフォルト変更リスト" comment="授業内容更新">
-      <change afterPath="$PROJECT_DIR$/src/intro2/IntegerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/ReferenceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/arraySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/order/Break.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +54,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="アプリケーション.IntegerSample">
-    <configuration name="CalcBmi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.CalcBmi" />
+  <component name="RunManager" selected="アプリケーション.Continue">
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="order.Continue" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.CountSample4" />
+    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.LogicalOperator" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.For3" />
+    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.RelationalOperator" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.IntegerSample" />
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.Scope" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intro2.*" />
+          <option name="PATTERN" value="data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex.MaxSample" />
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.Variable" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex.*" />
+          <option name="PATTERN" value="data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.IntegerSample" />
-        <item itemvalue="アプリケーション.For3" />
-        <item itemvalue="アプリケーション.CountSample4" />
-        <item itemvalue="アプリケーション.CalcBmi" />
-        <item itemvalue="アプリケーション.MaxSample" />
+        <item itemvalue="アプリケーション.Continue" />
+        <item itemvalue="アプリケーション.RelationalOperator" />
+        <item itemvalue="アプリケーション.LogicalOperator" />
+        <item itemvalue="アプリケーション.Variable" />
+        <item itemvalue="アプリケーション.Scope" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636525340475</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="授業内容更新">
+      <created>1636593565565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636593565565</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
