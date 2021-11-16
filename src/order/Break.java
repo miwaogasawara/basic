@@ -10,3 +10,7 @@ public class Break {
         }
     }
 }
+/*
+参照先
+Let'sプログラミング　https://www.javadrive.jp/start/for/index9.html
+ */

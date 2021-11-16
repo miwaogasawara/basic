@@ -25,4 +25,18 @@ public class While1 {
 9回目: 45
 10回目: 55
 
+※while文で無限ループを行う
+while 文で無限ループを行いたい場合には、条件式に boolean 型の true を記述
+何らかの条件を満たしたときに break 文などを使って繰り返し処理を抜ける必要があ
+ります
+int num = 1;
+
+while (true){
+  System.out.println("num = " + num);
+  num *= 2;
+
+  if (num > 10){
+    break;
+  }
+}
  */

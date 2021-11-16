@@ -7,8 +7,8 @@ public class FxFor1 {
         for (int num:array) {
             sum += num;
         }
-            System.out.println(sum);
-            System.out.println((double) sum / array.length );
+            System.out.println(sum);//150
+            System.out.println((double) sum / array.length );//30.0
         }
     }
 
