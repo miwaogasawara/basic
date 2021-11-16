@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5a9b22-7e13-454a-8142-91012192d5aa" name="デフォルト変更リスト" comment="授業内容更新">
-      <change afterPath="$PROJECT_DIR$/src/data/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/ReferenceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/arraySample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro2/RelationalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/order/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/AveSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/AveSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/AveSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/CountSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/CountSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/CountSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/LinearSearchSampleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/LinearSearchSampleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MaxSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MaxSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MaxSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MinSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MinSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/MinSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/RelationalOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/RoundSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/SumSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/SumSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/While1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro2/While2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/order/If3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex/MaxSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/order/If1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/order/If1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/order/If2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/order/If2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/order/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/order/Switch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -54,13 +72,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="アプリケーション.Continue">
-    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="order.Continue" />
+  <component name="RunManager" selected="アプリケーション.SumSample2">
+    <configuration name="MinSample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.MinSample2" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="order.*" />
+          <option name="PATTERN" value="ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +86,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.LogicalOperator" />
+    <configuration name="MinSample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.MinSample3" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoundSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.RoundSample" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro2.RelationalOperator" />
+    <configuration name="SumSample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.SumSample1" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
@@ -94,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data.Scope" />
+    <configuration name="SumSample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro2.SumSample2" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data.Variable" />
-      <module name="basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data.*" />
+          <option name="PATTERN" value="intro2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Continue" />
-        <item itemvalue="アプリケーション.RelationalOperator" />
-        <item itemvalue="アプリケーション.LogicalOperator" />
-        <item itemvalue="アプリケーション.Variable" />
-        <item itemvalue="アプリケーション.Scope" />
+        <item itemvalue="アプリケーション.SumSample2" />
+        <item itemvalue="アプリケーション.SumSample1" />
+        <item itemvalue="アプリケーション.RoundSample" />
+        <item itemvalue="アプリケーション.MinSample3" />
+        <item itemvalue="アプリケーション.MinSample2" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636593565565</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="授業内容更新">
+      <created>1636957620793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636957620793</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

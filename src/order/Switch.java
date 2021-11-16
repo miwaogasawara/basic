@@ -20,3 +20,7 @@ public class Switch {
         }
     }
 }
+/*
+結果
+A
+ */

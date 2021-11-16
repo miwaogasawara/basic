@@ -13,13 +13,13 @@ public class If2 {
             }
         } else {
             System.out.println(num + "は範囲外");
-        }
+        }//101は範囲外
 
-        //論理演算子を用いる
+        //論理演算子を用いる（内容は上記if文と同じ）
         if (num >= 0 && num <= 100) {
             System.out.println(num + "は範囲内");
         } else {
             System.out.println(num + "は範囲外");
-        }
+        }//101は範囲外
     }
 }
